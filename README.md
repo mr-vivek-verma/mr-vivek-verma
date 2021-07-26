@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vivek Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="swapnil.svg"></img>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-vivek-verma&label=Profile%20views&color=129e00&style=plastic" alt="mr-vivek-verma" /> </p>
+ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<h2> I'm Vivek Verma. I'm a web developer . Welcome to my GitHub page!</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-vivek-verma&label=Profile%20views&color=0e75b6&style=flat" alt="mr-vivek-verma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-vivek-verma" alt="mr-vivek-verma" /></a> </p>
