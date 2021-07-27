@@ -15,7 +15,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 <a href="https://twitter.com/mrvivek2090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrvivek2090" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vivekverma2090?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B418lZsg2THim4jKTs87U2A%3D%3D/https://www.linkedin.com/in/vivekverma2090/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivekverma2090/" height="30" width="40" /></a>
 <a href="https://medium.com/@mr.vivek2090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mr.vivek2090" height="30" width="40" /></a>
-<a href="/https://verma-vivektech.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://verma-vivektech.blogspot.com/" height="30" width="40" /></a>
+<a href="https://verma-vivektech.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://verma-vivektech.blogspot.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
