@@ -30,3 +30,4 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-vivek-verma&" alt="mr-vivek-verma" /></p>
 
 
+Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/mr-vivek-verma/count.svg)
