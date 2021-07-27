@@ -4,7 +4,7 @@
 <h2> I'm Vivek Verma. I'm a web developer . Welcome to my GitHub page!</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-vivek-verma&label=Profile%20views&color=0e75b6&style=flat" alt="mr-vivek-verma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-vivek-verma&row=2&column=3" alt="mr-vivek-verma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-vivek-verma&row=1&column=" alt="mr-vivek-verma" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mrvivek2090" target="blank"><img src="https://img.shields.io/twitter/follow/mrvivek2090?logo=twitter&style=for-the-badge" alt="mrvivek2090" /></a> </p>
 
