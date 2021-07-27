@@ -1,5 +1,5 @@
 Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-<h2> I'm Vivek Verma. I'm a web developer . Welcome to my GitHub page!</h2>
+<h2> I'm Vivek Verma. I'm a Full-Stack Web Developer . Welcome to my GitHub page!</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-vivek-verma&row=1&column=" alt="mr-vivek-verma" /></a> </p>
 
