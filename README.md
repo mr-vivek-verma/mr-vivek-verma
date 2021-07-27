@@ -1,4 +1,4 @@
-Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/mr-vivek-verma/count.svg)
+Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/mr-vivek-verma/count.svg)<br>
 Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <h2> I'm Vivek Verma. I'm a web developer . Welcome to my GitHub page!</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-vivek-verma&label=Profile%20views&color=0e75b6&style=flat" alt="mr-vivek-verma" /> </p>
@@ -28,5 +28,5 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-vivek-verma&show_icons=true&locale=en" alt="mr-vivek-verma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-vivek-verma&" alt="mr-vivek-verma" /></p>
-Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/mr-vivek-verma/count.svg)
+
 
